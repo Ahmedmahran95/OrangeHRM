@@ -19,3 +19,14 @@ and authentication scenarios.
 - Login page UI verification
 
 ## 📁 Project Structure
+
+
+## ▶️ How to Run
+1. Clone the repository
+2. Open project in IntelliJ IDEA
+3. Run `mvn install` to install dependencies
+4. Run the test classes
+
+## 🔗 Application Under Test
+- **App:** OrangeHRM (https://opensource-demo.orangehrmlive.com)
+- **Type:** Web Application — HR Management System
